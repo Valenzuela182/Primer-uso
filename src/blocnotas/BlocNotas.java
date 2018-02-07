@@ -7,7 +7,7 @@ import servicio.Utilidad;
 
 /**
  *
- * @author Rodrigo
+ * @author Rodrigo Valenzuela
  */
 public class BlocNotas {
 

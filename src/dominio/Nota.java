@@ -5,7 +5,7 @@ import java.util.Calendar;
 
 /**
  *
- * @author Rodrigo
+ * @author Rodrigo Valenzuela
  */
 public class Nota {
     public Nota(){}
